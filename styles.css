@@ -1,0 +1,19 @@
+body{
+    background: white url(grey-linen-texture-background_1053-253.jpg) fixed;
+    background-size: cover;
+}
+.container-fluid{
+    margin-top: 100px;
+}
+h1{
+    font-family: "Indie Flower","cursive","Arial";
+    font-weight: bolder;
+    color: darkgreen;
+    font-size: 78px;
+}
+.center {
+    margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    padding: 5px;
+}
